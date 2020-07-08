@@ -1,0 +1,63 @@
+.back-g-color{
+  
+  background-color: #F0FFF0;
+  margin-bottom: 5%;
+}
+
+.highlight{
+  background-color: rgb(33, 181, 115);
+  color: white;
+  border-radius: 18px;
+  padding: 4px 21px;
+  border: none;
+}
+
+.bold{
+  font-weight: 600;
+}
+
+.getstart{
+  background-color: rgb(33, 181, 115);
+  border: none;
+  border-radius: 18px;
+  padding: 7px 24px;
+}
+
+
+.card{
+  border: none;
+  background-color: #f8fffb;
+}
+
+.bottom{
+  margin-bottom: 4%;
+}
+
+.hover:hover{
+  border: none;
+  background-color: white;
+  box-shadow: 1px 12px 9px gray;
+}
+
+.radius-shadow{
+  border-radius: 13px;
+  background-color: white;
+  box-shadow: 0px 0px 10px 10px rgba(211, 209, 209, 0.979);
+}
+
+.buy-course{
+  background-color: rgb(33, 181, 115);
+  color: rgb(231, 225, 225);
+  border: none;
+  padding: 4px 19px;
+  border-radius: 19px;
+}
+
+.gray-background{
+  background-color: rgb(40, 37, 49);
+  margin-bottom: 0%;
+}
+
+.row1{
+  padding-top: 4%;
+}
